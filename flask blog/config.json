@@ -1,0 +1,25 @@
+
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/DailyHunt",
+    "prod_uri":"mysql://root:@localhost/DailyHunt",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+
+    "blog_name": "DailyHunt",
+    "tag_line": "Non-profit, viewer supported news for a future worth fighting for.  Read the Latest News On Business, Politics, Sports, Entertainment & Much More From India And Around The World At The DailyHunt",
+    "gmail-user":"amneshpal016@gmail.com",
+    "gmail-password":"Abhineshpal016@gmail.com",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+     "img_post":"https://source.unsplash.com/featured/?{KEYWORD},{water}",
+    "login_image": "https://source.unsplash.com/collection/190727/1600x900",
+    "admin_user": "Amnesh",
+    "admin_password": "123456",
+    "upload_location": "C:\\Users\\dell\\PycharmProjects\\pythonProjectflask"
+
+  }
+}
